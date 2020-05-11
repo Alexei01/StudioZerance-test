@@ -20,17 +20,18 @@ Problèmes :
 
 Voici les problèmes dont j'ai du mal à résoudre :
 
-- Le soulignement du 'Shopify' sur la section bannière comme sur la maquette, j'ignore encore comment réussir à changer l'apparence du soulignement. 
+Le soulignement du 'Shopify' sur la section bannière comme sur la maquette, j'ignore encore comment réussir à changer l'apparence du soulignement. 
+
 J'ai pensé à remplacer le style de l'underline avec une classe, qu'on peut réutiliser sur plusieurs balises <div>. Le problème c'est que est difficilement retraçable, du moins j'ignore comment le faire.
   
-- L'affichage du début du second slide, sur le premier slide. J'ai déja eu pas mal de soucis pour faire cette section "slider". Je suis parti du principe que je devais juste changer d'image à afficher sur la page lors du défilement, ainsi afficher deux images en "même temps" m'a beaucoup posé problème.
+L'affichage du début du second slide, sur le premier slide. J'ai déja eu pas mal de soucis pour faire cette section "slider". Je suis parti du principe que je devais juste changer d'image à afficher sur la page lors du défilement, ainsi afficher deux images en "même temps" m'a beaucoup posé problème.
 J'ai essayé d'opter de mettre les deux images dans une seule div, la deuxième étant rognée. J'ai eu beaucoup trop d'incohérences au niveau affichage donc j'ai vite abandonné cette voie. 
 
-- La bandeau "text infinite" n'est pas fluide sur certains navigateurs. En effet j'ai utilisé une balise <marquee> qui est obsolète d'après ce que j'ai pu comprendre, ce qui le rend pas fluide pour tous. 
+La bandeau "text infinite" n'est pas fluide sur certains navigateurs. En effet j'ai utilisé une balise <marquee> qui est obsolète d'après ce que j'ai pu comprendre, ce qui le rend pas fluide pour tous. 
 A mon avis, l'utilisation du CSS devrait être plus appropriée, notamment avec l'aide de @keyframes. J'ai fais pas mal d'essais, mais cela reste sans succès. Soit le texte ne défile pas, soit il n'apparaît tout simplement plus.
 Je reste persuadé que pour cette partie, avec un peu plus d'entraînement et de connaissances en CSS, je pourrais y parvenir.
   
-  
+-------------
 Temps par section : 
 -------------
 
