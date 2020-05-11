@@ -30,6 +30,7 @@ J'ai essayé d'opter de mettre les deux images dans une seule div, la deuxième 
 A mon avis, l'utilisation du CSS devrait être plus appropriée, notamment avec l'aide de @keyframes. J'ai fais pas mal d'essais, mais cela reste sans succès. Soit le texte ne défile pas, soit il n'apparaît tout simplement plus.
 Je reste persuadé que pour cette partie, avec un peu plus d'entraînement et de connaissances en CSS, je pourrais y parvenir.
   
+  
 Temps par section : 
 -------------
 
